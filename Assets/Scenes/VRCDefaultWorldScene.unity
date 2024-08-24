@@ -448,11 +448,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RespawnerBroom
       objectReference: {fileID: 0}
-    - target: {fileID: 6193659810396082747, guid: e817c8822aba07f42b29480a79b99b4e,
+    - target: {fileID: 3972193258568823168, guid: e817c8822aba07f42b29480a79b99b4e,
         type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: ae56bbd65b3171d43a9242a3da9d9217, type: 2}
+      propertyPath: m_Layer
+      value: 13
+      objectReference: {fileID: 0}
     - target: {fileID: 6735465850163240332, guid: e817c8822aba07f42b29480a79b99b4e,
         type: 3}
       propertyPath: serializationData.Prefab

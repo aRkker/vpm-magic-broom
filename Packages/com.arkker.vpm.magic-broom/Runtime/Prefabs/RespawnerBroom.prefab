@@ -18,7 +18,7 @@ GameObject:
   - component: {fileID: 7229321833382196043}
   - component: {fileID: 3540265104731265678}
   - component: {fileID: 8336913473312157044}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: RespawnerBroom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
