@@ -1,7 +1,7 @@
 {
   "name": "com.arkker.vpm.magic-broom",
   "displayName": "aRkker's Magic Respawner Broom",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "unity": "2022.3",
   "description": "This thing respawns other pickups when you touch them with it, if they are using Smart Object Sync",
   "author": {
