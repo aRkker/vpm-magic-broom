@@ -68,8 +68,12 @@ public class PickupRespawnerBroom : UdonSharpBehaviour
     {
         if (gameMode)
         {
-            float distance = Vector3.Distance(throwStartPosition, transform.position);
+            // Create new vectors with the same x and z components but y set to 0
+            Vector3 horizontalStartPosition = new Vector3(throwStartPosition.x, 0, throwStartPosition.z);
+            Vector3 horizontalCurrentPosition = new Vector3(transform.position.x, 0, transform.position.z);
 
+            // Calculate the horizontal distance
+            float distance = Vector3.Distance(horizontalStartPosition, horizontalCurrentPosition);
 
             if (distance > bestDistance)
             {

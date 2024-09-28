@@ -91,7 +91,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Project
   m_RootView: {fileID: 15}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -195,7 +195,7 @@ MonoBehaviour:
   m_MinSize: {x: 516, y: 621}
   m_MaxSize: {x: 516, y: 2021}
   vertical: 0
-  controlID: 102
+  controlID: 96
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -270,7 +270,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 194
+  controlID: 136
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -446,7 +446,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 133
+  controlID: 137
 --- !u!114 &19
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -471,7 +471,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 134
+  controlID: 128
 --- !u!114 &20
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -757,7 +757,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Packages/com.arkker.vpm.magic-broom/Runtime/Model
+    - Packages/com.arkker.vpm.magic-broom/Runtime/Prefabs
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -765,15 +765,15 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Packages/com.arkker.vpm.magic-broom/Runtime/Model
+  - Packages/com.arkker.vpm.magic-broom/Runtime/Prefabs
   m_LastFoldersGridSize: -1
   m_LastProjectPath: E:\vrdev\vrchat\vpm-magic-broom
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 140.49966}
-    m_SelectedIDs: 7a620000
-    m_LastClickedID: 25210
+    m_SelectedIDs: 7c620000
+    m_LastClickedID: 25212
     m_ExpandedIDs: 00000000fc5c00003c6200003e620000ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -944,9 +944,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: d4faffff
+      m_SelectedIDs: c6730000
+      m_LastClickedID: 29638
+      m_ExpandedIDs: 8669ffffe869ffff146dffffb0e9ffffd2faffffd4faffff9c730000c6730000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1327,9 +1327,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.17167234, y: 1.1749897, z: -0.54482675}
+    m_Target: {x: -0.03123826, y: 0.39694417, z: 0.4999324}
     speed: 2
-    m_Value: {x: -0.17167234, y: 1.1749897, z: -0.54482675}
+    m_Value: {x: -0.03123826, y: 0.39694417, z: 0.4999324}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1375,13 +1375,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.078263804, y: 0.7457199, z: -0.08901794, w: -0.6556303}
+    m_Target: {x: 0.3469441, y: 0.0014020833, z: -0.0005198432, w: 0.93788755}
     speed: 2
-    m_Value: {x: -0.078263804, y: 0.74571985, z: -0.08901794, w: -0.6556303}
+    m_Value: {x: 0.34694314, y: 0.0014020795, z: -0.0005198418, w: 0.937885}
   m_Size:
-    m_Target: 0.98682594
+    m_Target: 0.7721783
     speed: 2
-    m_Value: 0.98682594
+    m_Value: 0.7721783
   m_Ortho:
     m_Target: 0
     speed: 2
